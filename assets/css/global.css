@@ -1,0 +1,130 @@
+a{
+    color: inherit;
+    text-decoration: none !important;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: "Kadwa", serif;
+    font-style: normal;
+}
+
+a, p, span, li, input, textarea{
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.margin-0{
+    margin: 0px !important;
+}
+
+.margin-b-0{
+    margin-bottom: 0px !important;
+}
+
+.text-justify{
+    text-align: justify !important;
+}
+
+
+
+.font-w-200{
+    font-weight: 200 !important;
+}
+
+.font-w-300{
+    font-weight: 300 !important;
+}
+
+.font-w-400{
+    font-weight: 400 !important;
+}
+
+
+.font-w-500{
+    font-weight: 500 !important;
+}
+
+.font-w-600{
+    font-weight: 600 !important;
+}
+
+.font-w-700{
+    font-weight: 700 !important;
+}
+
+.theme-bg{
+    background-color: #d6b981 !important;
+}
+
+.t-theme-color{
+    color: #d6b981 !important;
+}
+
+.t-color-white{
+    color: white;
+}
+
+.t-color-black{
+    color: black;
+}
+
+.t-color-gray{
+    color: gray;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: #d6b981;
+}
+
+.t-xsm{
+    font-size: 12px;
+}
+
+
+.t-sm{
+    font-size: 14px;
+}
+
+.t-md{
+    font-size: 16px;
+}
+
+
+.t-lg{
+    font-size: 18px;
+}
+
+
+.t-xlg{
+    font-size: 21px;
+}
+
+.letter-spacing-1{
+    letter-spacing: 1px !important;
+}
+
+.letter-spacing-2{
+    letter-spacing: 2px !important;
+}
+
+.letter-spacing-3{
+    letter-spacing: 3px !important;
+}
+
+
+.b-radius-2{
+    border-radius: 2px !important;
+}
+
+.b-radius-5{
+    border-radius: 5px !important;
+}
+
+.b-radius-10{
+    border-radius: 10px !important;
+}
+
+.b-radius-15{
+    border-radius: 15px !important;
+}
