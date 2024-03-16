@@ -1,4 +1,24 @@
 @media only screen and (min-width:300px) and (max-width:997px) {
+    .bg-book-blue{
+        background-image: url(../img/bg/bg-blue.avif);
+        height: 830px;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    .rounder-border{
+        height: 300px;
+        width: 300px;
+    
+       }
+    .banner{
+        height: 200px;
+        width: 100%;
+    }
+
     .enquiry-links {
         display: none;
     }
@@ -34,6 +54,22 @@
 }
 
 @media only screen and (min-width:998px) and (max-width:3000px) {
+    .bg-book-blue{
+        background-image: url('../img/bg/bg-blue.avif');
+        height: 400px;
+        width: 100%;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .rounder-border{
+    height: 300px;
+    width: 300px;
+
+   }
+
+    
     .banner{
         height: 400px;
         width: 100%;
