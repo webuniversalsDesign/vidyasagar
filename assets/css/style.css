@@ -52,3 +52,9 @@ nav .nav_links a {
     padding: 10px;
 
 }
+
+.banner img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

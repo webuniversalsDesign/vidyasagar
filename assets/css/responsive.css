@@ -1,48 +1,58 @@
-@media only screen and (min-width:300px) and (max-width:997px){
-.enquiry-links{
-    display: none;
-}
+@media only screen and (min-width:300px) and (max-width:997px) {
+    .enquiry-links {
+        display: none;
+    }
 
-.desktop-none{
-    display: block;
-}
-.w-sm-100{
-    width: 100%;
-}
-nav{
+    .desktop-none {
+        display: block;
+    }
+
+    .w-sm-100 {
+        width: 100%;
+    }
+
+    nav {
         padding: 5px 10px;
-}
-nav .nav_links {
-    display: block;
-    position: absolute;
-    top: 100%;
-    width: 100%;
-    left: 0px;
-    transform-origin: top;
-    transform: scaleY(0);
-    transition: all 0.3s ease-in-out;
-}
+    }
+
+    nav .nav_links {
+        display: block;
+        position: absolute;
+        top: 100%;
+        width: 100%;
+        left: 0px;
+        transform-origin: top;
+        transform: scaleY(0);
+        transition: all 0.3s ease-in-out;
+    }
 
 
-.openmenu{
-    transform: scaleY(1) !important;
-}
+    .openmenu {
+        transform: scaleY(1) !important;
+    }
 
 }
 
 @media only screen and (min-width:998px) and (max-width:3000px) {
-    .enquiry-links{
+    .banner{
+        height: 400px;
+        width: 100%;
+    }
+
+    .enquiry-links {
         display: flex;
     }
-nav{
+
+    nav {
         padding: 5px 100px;
-}
-    .desktop-none{
+    }
+
+    .desktop-none {
         display: none;
     }
 
-nav .nav_links {
-    position: relative;
-display: flex;
-}
+    nav .nav_links {
+        position: relative;
+        display: flex;
+    }
 }
