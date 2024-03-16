@@ -57,8 +57,22 @@ a, p, span, li, input, textarea{
     background-color: #d6b981 !important;
 }
 
-.t-theme-color{
-    color: #d6b981 !important;
+.t-color-theme-red{
+    color: #a12b2f !important;
+}
+
+.bgcolor-theme-red{
+    background-color: #a12b2f !important;
+    color: white;
+}
+
+.t-color-theme-blue{
+    color: #002f87 !important;
+}
+
+.bgcolor-theme-blue{
+    background-color: #002f87 !important;
+color: white;
 }
 
 .t-color-white{
@@ -98,6 +112,10 @@ a, p, span, li, input, textarea{
 
 .t-xlg{
     font-size: 21px;
+}
+
+.t-xlg{
+    font-size: 30px;
 }
 
 .letter-spacing-1{

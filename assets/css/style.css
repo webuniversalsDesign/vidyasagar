@@ -1,0 +1,20 @@
+.topheader-section .social-links .socialiconbg{
+    background-color: white;
+    position: relative;
+    height: 25px;
+    width: 25px;
+    border-radius: 3px;
+    transition: all 0.2s ease-in-out;
+}
+
+.topheader-section .social-links .socialiconbg:hover{
+border-radius: 50px;
+}
+
+.topheader-section .social-links .socialiconbg .icon{
+position: absolute;
+top: 53%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
