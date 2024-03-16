@@ -58,3 +58,158 @@ nav .nav_links a {
     width: 100%;
     object-fit: cover;
 }
+
+
+.category-card{
+position: relative;
+}
+
+.rounder-border{
+    overflow: hidden;
+    border-radius: 200px;
+    position: relative;
+    border-style: dashed;
+    border-color:#a12b2f;
+}
+
+.rounder-border img{
+    height: 95%;
+    width: 95%;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) ;
+
+}
+
+.overlay-black{
+    background-color: rgba(0, 0, 0, 0.548);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    height: 95%;
+    width: 95%;
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+}
+
+.category-card:hover .overlay-black{
+    transform: translate(-50%, -50%) scale(1);
+}
+.img-linker{
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 2px;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+line-height: 3;
+}
+
+.category-card:hover .img-linker{
+    opacity: 1;
+}
+
+.bg-book-blue{
+    position: relative;
+    overflow: hidden;
+}
+
+.section-icon{
+    height: 25px;
+    width: 25px;
+    background-size: cover;
+    position: absolute;
+   
+}
+
+
+.flower{
+    background-image: url('../img/icons/flower.png');
+    top: 20px;
+    left: 30px;
+    /* animation: flowermove 50s linear infinite alternate; */
+}
+
+/* @keyframes flowermove {
+    0%   { transform:translate( 100px, 30px)}
+    40%  { transform:translate( 400px, 40px)}
+    85%  { transform:translate( 200px, 20px)}
+    100%   { transform:translate( 100px, 30px)}
+
+  } */
+
+
+.moon{
+    background-image: url('../img/icons/moon.png');
+    bottom: 120px;
+    right: 30px;
+}
+
+.pencil{
+    background-image: url('../img/icons/pencil.png');
+    top: 217px;
+    left: 600px;
+}
+
+.star2{
+    background-image: url('../img/icons/star-2.png');
+    top: 20px;
+    left: 400px;
+}
+
+.star{
+    background-image: url('../img/icons/star.png');
+    bottom: 309px;
+    right: 300px;
+}
+
+.school-feature{
+    height: 160px;
+    width: 100%;
+}
+
+.school-feature img{
+    height: 100%;
+width: 100%;
+object-fit: cover;
+}
+
+.school-featurename{
+    transform: translateY(0px);
+    transition: all 0.2s ease-in-out;
+
+}
+
+.school-feature:hover .school-featurename{
+    transform: translateY(-30px);
+    background-color: white;
+}
+
+.edge-img{
+    height: 200px;
+    width: 100%;
+}
+
+.edge-img img{
+    height: 100%;
+width: 100%;
+object-fit: cover;
+object-position: top;
+}
+
+.testimonialbg{
+    width: 100%;
+    height: max-content;
+    position: relative;
+    background-image:url('../img/bg/testimonial-bg.jpg') ;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}

@@ -1,5 +1,5 @@
  <!-- Swiper -->
- <div class="swiper mySwiper">
+ <div class="swiper banner">
      <div class="swiper-wrapper">
          <div class="swiper-slide">
              <div class="banner">
@@ -23,7 +23,7 @@
 
  <!-- Initialize Swiper -->
  <script>
-     var swiper = new Swiper(".mySwiper", {
+     var swiper = new Swiper(".banner", {
          grabCursor: true,
          autoplay: {
              delay: 2500,
