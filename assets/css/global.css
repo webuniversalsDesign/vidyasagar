@@ -189,3 +189,7 @@ textarea {
 .b-radius-15 {
     border-radius: 15px !important;
 }
+
+.h-max-content{
+height: 100% !important;
+}

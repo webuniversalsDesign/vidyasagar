@@ -58,3 +58,62 @@ nav .nav_links a {
     width: 100%;
     object-fit: cover;
 }
+.custom-card:hover {
+    transform: scale(1.1);
+    transition: all .3s ease-in-out;
+  }
+  .custom-card{
+    transition: all .3s ease-in-out;
+
+  }
+  .custom-card:hover .t-color-theme-blue{
+    color: brown !important;
+  }
+  @media screen and (max-width:768px){
+    .flex-sm-column-reverse2 {
+        flex-direction: column-reverse;
+    }
+  }
+  @media screen and (min-width:768px){
+    .flex-sm-column-reverse2 {
+        flex-direction: row;
+    }
+  }
+
+.our-img{
+    height: 350px;
+    width: 100%;
+}
+
+.our-img img{
+    height:100%;
+    width:100%;
+    object-fit: cover;
+    object-position: top;
+}
+.image-title{
+    background-color: brown;
+}
+.image-box img{
+    width: 100%;
+}
+.image-title h5{
+    padding: 8px 0px;
+}
+.hover-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)scale(0);
+    
+    transition: all .3s ease-in-out;
+    width: 100%;
+    padding: 20px;
+    background-color: #ffffffa4;
+}
+.touch:hover .hover-content{
+    transition: all .3s ease-in-out;
+    transform: translate(-50%, -50%)scale(1);
+    z-index: 111;
+
+}
