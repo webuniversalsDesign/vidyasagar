@@ -15,7 +15,7 @@
                 <div class="col-md-12">
                     <h2 class="t-color-theme-blue text-center">Our Philosophy</h2>
                     <p class="text-center"><img src="./assets/img/icons/line-1.png" alt="below-header"></p>
-                    <p class="mt-2 text-center">Vidyasagar Preschool believes in fostering an academic culture that is driven by a strong foundation in mathematical acumen, scientific temperament and linguistic excellence. We also lay special emphasis on the moral and ethical conditioning of children.</p>
+                    <p class="mt-2 text-center">At Vidyasagar Preschool, we are dedicated to cultivating an academic ethos anchored in robust mathematical proficiency, a curious scientific mindset, and linguistic mastery. Additionally, we prioritize instilling in children a sense of moral integrity and ethical values.</p>
                 </div>
             </div>
         </div>
@@ -27,7 +27,7 @@
                 <div class="col-md-12">
                     <h2 class="t-color-theme-red text-center">Legacy And Journey</h2>
                     <p class="text-center"><img src="./assets/img/icons/line-1.png" alt="below-header"></p>
-                    <p class="mt-2 text-center">From a single room in 1982, we have grown into an assortment of 2 happy preschool campuses across Bangalore. Close to four decades of teaching preschoolers has given us deep insights into how children learn. We have stayed relevant with the times and have constantly evolved our pedagogy to incorporate changing requirements and life skills.</p>
+                    <p class="mt-2 text-center">Since our humble beginnings in a single room back in 1982, we've blossomed into a vibrant network of two joyful preschool campuses nestled across Bangalore. With nearly four decades of nurturing young minds, we've gained profound insights into the intricacies of childhood learning. Remaining attuned to the pulse of progress, we continuously refine our teaching methods, adapting to evolving needs and integrating essential life skills into our pedagogy.</p>
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
                     <div class="custom-card b-radius-5 shadow p-3">
 
                         <h2 class="text-center t-color-theme-blue transition-3">1982</h2>
-                        <p class="text-center mt-2">Started in a single room with 30 children</p>
+                        <p class="text-center mt-2">Founded in a single room with 30 students </p>
 
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                     <div class=" b-radius-5 custom-card shadow p-3">
                         <h2 class="text-center t-color-theme-blue transition-3">1995</h2>
                         <p class="text-center mt-2">
-                            Shifted to a 1 acre flagship campus in Hebbal
+                            Relocated to our sprawling 1-acre flagship campus in Hebbal
                         </p>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                     <div class=" b-radius-5 custom-card shadow p-3">
                         <h2 class="text-center t-color-theme-blue transition-3">2000</h2>
                         <p class="text-center mt-2">
-                            Reached a milestone of 500 students
+                            Marked a milestone with 500 students
                         </p>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                     <div class=" b-radius-5 custom-card shadow p-3">
                         <h2 class="text-center t-color-theme-blue transition-3">2019</h2>
                         <p class="text-center mt-2">
-                            Opened a new branch in JP nagar
+                            Expanded with a new branch in JP Nagar
                         </p>
                     </div>
                 </div>
@@ -78,9 +78,9 @@
                     <div class="h-max-content p-3">
                         <h2 class="t-color-theme-blue">Our vision</h2>
                         <!-- <p class=""><img src="./assets/img/icons/line-1.png" alt="line"></p> -->
-                        <p class="text-justify mt-2">Vidyasagar Preschool (VSP) is a home away from home. Nurturing young minds into responsible citizens, providing pastoral care and enabling children to be school ready are at the core of what we do. Our instruction format focuses on the most valuable aspect of a child’s early development their identity. We believe that every child is unique and a definitive sense of identity lays the foundation for self awareness and self confidence. Every student at Vidyasagar Preschool receives an equal opportunity to become the best version of themselves.
-                            <br>
-                            Our team of highly qualified academic professionals work tirelessly to ensure that each child receives an incredible amount of individual attention and support, to help them navigate through preschool as a positive experience.
+                        <p class="text-justify mt-2">Vidyasagar Preschool (VSP) serves as a second home, nurturing young minds into conscientious citizens. Our ethos revolves around providing pastoral care and equipping children for their educational journey. At the heart of our approach lies a focus on nurturing each child's unique identity, as we firmly believe that self-awareness and confidence stem from a strong sense of self.<br>
+                            We are committed to fostering an environment where every student at Vidyasagar Preschool has an equal opportunity to flourish and evolve into their best selves. Our team of dedicated academic professionals tirelessly ensures that each child receives personalized attention and support, making their preschool experience enriching and positive.
+
                         </p>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                     <div class="h-max-content p-3">
                         <h2 class="t-color-theme-blue">Our Mission</h2>
                         <!-- <p class=""><img src="./assets/img/icons/line-1.png" alt="line"></p> -->
-                        <p class="text-justify mt-2">Helping children find their identity and developing them into responsible citizens.</p>
+                        <p class="text-justify mt-2">Fostering children's individuality and guiding them towards responsible citizenship.</p>
                     </div>
                 </div>
             </div>
@@ -128,56 +128,177 @@
             <p class="text-center">
                 <img src="./assets/img/icons/line-1.png" alt="">
             </p>
-            <p class="text-justify">The Sagar culture is built on pillars of openness and transparency. Our culture provides scaffolding to a safe and nurturing environment that enables preschoolers to focus on learning and building their identities.</p>
+            <p class="text-justify">At the heart of the Sagar ethos lie the pillars of openness and transparency. These foundational values create a supportive environment where preschoolers can thrive, focusing on learning and shaping their identities.</p>
             <div class="row">
-             <div class="col-md-4 py-md-1 py-3">
-                <div class="position-relative touch">
-                <div class="image-box">
-                    <img src="./assets/img/our-culture-1.avif" alt="">
+                <div class="col-md-4 py-md-1 py-3">
+                    <div class="position-relative touch">
+                        <div class="image-box">
+                            <img src="./assets/img/our-culture-1.avif" alt="">
+                        </div>
+                        <div class="image-title">
+                            <h5 class="text-center text-white">Postoral Care</h5>
+                        </div>
+
+                        <div class="hover-content">
+                            <p class="hover-text font-w-500">
+                            At Vidyasagar Preschool, we pride ourselves on being a second home for children. Our nurturing environment fosters a strong bond between students and their 'aunties' (our teachers), enhancing safety, happiness, and enabling each child to reach their fullest potential.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="image-title">
-                    <h5 class="text-center text-white">Postoral Care</h5>
+                <div class="col-md-4 py-md-1 py-3">
+                    <div class="position-relative touch">
+                        <div class="image-box">
+                            <img src="./assets/img/our-culture-2.avif" alt="">
+                        </div>
+                        <div class="image-title">
+                            <h5 class="text-center text-white">Open Door Policy</h5>
+                        </div>
+
+                        <div class="hover-content">
+                            <p class="hover-text font-w-500">
+                            Aligned with our commitment to transparency, Vidyasagar has an open-door policy. This allows both parents and children to schedule meetings with coordinators, teachers, or the principal at their convenience, fostering open communication and collaboration.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                
-                <div class="hover-content">
-                    <p class="hover-text font-w-500">
-                    Vidyasagar Preschool is a home away from home. Children feel perfectly at ease with their aunties (i.e. teachers). This augments safety, happiness quotient and enables children to perform to their fullest potential.
-                    </p>
+                <div class="col-md-4 py-md-1 py-3">
+                    <div class="position-relative touch">
+                        <div class="image-box">
+                            <img src="./assets/img/our-culture-3.avif" alt="">
+                        </div>
+                        <div class="image-title">
+                            <h5 class="text-center text-white">Experienced and High Quality Faculty</h5>
+                        </div>
+
+                        <div class="hover-content">
+                            <p class="hover-text font-w-500">
+                            Our certified educators go beyond academics, prioritizing the socio-emotional well-being of each child. Through structured, annual professional development programs, we empower our teachers to continually enhance their skills and knowledge, ensuring a holistic approach to education.
+                            </p>
+                        </div>
+                    </div>
                 </div>
+                <div class="col-md-4 py-md-1 py-3">
+                    <div class="position-relative touch">
+                        <div class="image-box">
+                            <img src="./assets/img/our-culture-4.avif" alt="">
+                        </div>
+                        <div class="image-title">
+                            <h5 class="text-center text-white">Individual Attention</h5>
+                        </div>
+
+                        <div class="hover-content">
+                            <p class="hover-text font-w-500">
+                            At Vidyasagar, we take pride in providing individualized attention to each child. We are committed to knowing every Vidyasagar child personally and believe in tailoring our approach to accommodate their unique learning styles.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-             </div>
-             <div class="col-md-4 py-md-1 py-3">
-                <div class="position-relative touch">
-                <div class="image-box">
-                    <img src="./assets/img/our-culture-2.avif" alt="">
+                <div class="col-md-4 py-md-1 py-3">
+                    <div class="position-relative touch">
+                        <div class="image-box">
+                            <img src="./assets/img/our-culture-5.avif" alt="">
+                        </div>
+                        <div class="image-title">
+                            <h5 class="text-center text-white">Safe and Secure Environment test</h5>
+                        </div>
+
+                        <div class="hover-content">
+                            <p class="hover-text font-w-500">
+                            At Vidyasagar, ensuring the safety of our children is our top priority. All our staff undergo extensive background checks, and 95% of our team comprise of women. We firmly believe that a secure environment fosters natural curiosity and encourages children to explore and learn freely.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="image-title">
-                    <h5 class="text-center text-white">Open Door Policy</h5>
+                <div class="col-md-4 py-md-1 py-3">
+                    <div class="position-relative touch">
+                        <div class="image-box">
+                            <img src="./assets/img/our-culture-6.avif" alt="">
+                        </div>
+                        <div class="image-title">
+                            <h5 class="text-center text-white">Nurturing Parent-teacher Relationship</h5>
+                        </div>
+
+                        <div class="hover-content">
+                            <p class="hover-text font-w-500">
+                            Vidyasagar actively promotes and values parental involvement. Through the years, we've cultivated a robust and united community where parents and family members serve as our esteemed brand ambassadors.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                
-                <div class="hover-content">
-                    <p class="hover-text font-w-500">
-                    In line with its transparent culture, Vidyasagar has an open-door policy that enables parents as well as children to meet the coordinator/teachers/principal anytime after scheduling an interaction.
-                    </p>
+            </div>
+        </div>
+    </section>
+    <section class="leadership">
+        <div class="container">
+            <h2 class="text-center t-color-theme-blue mb-3">LEADERSHIP</h2>
+            <div class="row">
+                <div class="col-md-4 py-md-1 py-4">
+                    <div class="position-relative image-hover-effect">
+                        <img src="./assets/img/leader-1.avif" class="img-fluid img-fit" alt="">
+                        <div class="leader-title">
+                            <h5 class="t-color-theme-blue letter-spacing-1">Dr.Dayananda Pai</h5>
+                            <p class="margin-b-0 font-w-500">Managing Trustee</p>
+                        </div>
+                    </div>
                 </div>
+                <div class="col-md-4 py-md-1 py-4">
+                    <div class="position-relative image-hover-effect">
+                        <img src="./assets/img/leader-2.avif" class="img-fluid img-fit" alt="">
+                        <div class="leader-title">
+                            <h5 class="t-color-theme-blue letter-spacing-1">Dr.Kiran Pai(Ed.D)</h5>
+                            <p class="margin-b-0 font-w-500">Director</p>
+                        </div>
+                    </div>
                 </div>
-             </div>
-             <div class="col-md-4 py-md-1 py-3">
-                <div class="position-relative touch">
-                <div class="image-box">
-                    <img src="./assets/img/our-culture-3.avif" alt="">
+                <div class="col-md-4 py-md-1 py-4">
+                    <div class="position-relative image-hover-effect">
+                        <img src="./assets/img/leader-3.avif" class="img-fluid img-fit" alt="">
+                        <div class="leader-title">
+                            <h5 class="t-color-theme-blue letter-spacing-1">Dr.Shilpa Pai</h5>
+                            <p class="margin-b-0 font-w-500">Director </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="image-title">
-                    <h5 class="text-center text-white">Experienced and High Quality Faculty</h5>
+            </div>
+        </div>
+    </section>
+    <section class="feeder-school">
+        <div class="container">
+            <h2 class="text-center t-color-theme-red mb-3">Feeder School To Vidyashilp</h2>
+            <div class="row align-items-center">
+                <div class="col-md-5">
+                    <img src="./assets/img/girl.avif" class="girl-image" alt="">
                 </div>
-                
-                <div class="hover-content">
-                    <p class="hover-text font-w-500">
-                    Our certified educators cater not only to academic learning but also to the socio-emotional well being of children. We have structured, annual professional development programs for teachers to enhance their learning.
-                    </p>
+
+                <div class="col-md-7">
+                    <div class="row">
+                        <div class="col-md-4 py-md-1 py-4">
+                            <div class="shadow1">
+                                <img src="./assets/img/yelehanka.avif" class="school-image" alt="">
+                                <p class="image-title text-white text-center">Vidyashilp Academy,<br> Yelahanka</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 py-md-1 py-4">
+                            <div class="shadow1">
+                                <img src="./assets/img/bagalur.avif" class="school-image" alt="">
+                                <p class="image-title text-white text-center">Vidyashilp School,<br> Bagalur</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 py-md-1 py-4">
+                            <div class="shadow1">
+                                <img src="./assets/img/banasankari.avif" class="school-image" alt="">
+                                <p class="image-title text-white text-center">Vidyashilp school,<br> Banashankari</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="font-w-400 text-justify">Vidyasagar Preschools proudly stand as a sister concern of Vidyashilp Academy and Vidyashilp Schools. Renowned for our exceptional standard of education, we are widely recognized among other prestigious institutions in the educational landscape.</p>
+                        </div>
+                    </div>
                 </div>
-                </div>
-             </div>
+
             </div>
         </div>
     </section>
