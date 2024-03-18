@@ -387,3 +387,33 @@ opacity: 1;
     width: 100%;
     object-fit: cover;
 }
+.curriculum-image{
+    height: 250px;
+    width: 100%;
+}
+.curriculum-image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: all .3s ease-in-out;
+
+}
+.curriculum-image:hover img{
+    transform: scale(1.1);
+    transition: all .3s ease-in-out;
+
+}
+.curriculum-image{
+    overflow: hidden;
+}
+.learning-methodology{
+    background-image: url(../img/curriculum-banner.jpg);
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}
+
+.footer{
+    background-color: #003087;
+    
+}
