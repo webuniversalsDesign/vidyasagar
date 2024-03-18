@@ -59,7 +59,7 @@
 
         <div class="row align-items-center py-4">
             <div class="col-md-5">
-                <img src="assets/img/campuse/preparatory1.jpg" class="img-fluid" style="width: 100%;"/>
+                <img src="assets/img/campuse/preparatory1.jpg" class="img-fluid" style="width: 100%;" />
             </div>
 
             <div class="col-md-7">
@@ -88,6 +88,23 @@
 
     </div>
 
+    <div class="container-fluid pt-5">
+        <h2 class="t-color-theme-red text-center">Team At Hebbal - Bhoopasandra</h2>
+        <p class="text-center"><img src="./assets/img/icons/line-1.png" alt="below-header"></p>
+
+    </div>
+
+    <div class="team-img"></div>
+    <div class="container-fluid py-5">
+        <p class="margin-0 text-center font-w-500">At our Hebbal, Bhoopasandra campus, Mrs. Shashikala C Rananavare leads the team as Principal. With 25 years of dedicated experience in education, Mrs. Shashikala holds both a bachelor’s and master’s degree in Early Childhood Education. Her expertise spans from teaching kindergarten to high school, aligning curriculum with 21st-century skill development.
+
+            <br />
+            <br />
+            Mrs. Shashikala embodies the vision of Vidyasagar Preschool, striving to empower every child to embrace lifelong learning, express themselves confidently, and cultivate the skill sets necessary to effect positive change in society.
+        </p>
+    </div>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3886.863128297804!2d77.583595!3d13.044383!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17edef30af83%3A0x41250c272bf15585!2sBhoopasandra%2C%20R.M.V.%202nd%20Stage%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1710752174239!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 </body>

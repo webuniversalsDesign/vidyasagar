@@ -1,7 +1,8 @@
 <div class="container pt-4">
 <h2 class="t-color-theme-red text-center">Infrastructure</h2>
                     <p class="text-center"><img src="./assets/img/icons/line-1.png" alt="below-header"></p>
-</div>
+
+                </div>
 
 <div class="swiper infra mb-5">
     <div class="swiper-wrapper mb-5">
