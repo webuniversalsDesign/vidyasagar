@@ -11,8 +11,14 @@
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="our-campuses.php">Our Campuses</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="curriculum.php">Curriculum</a></li>
 
+<li class="t-sm py-md-1 py-3 font-w-500 cus-dropdown">
+    <a href="#" onclick="togglesubmenu()">Gallery &nbsp; &nbsp; <i class="fa-solid fa-chevron-right menu-arrow"></i></a>
+<ul class="drop-list" id="droplist">
+    <li class="drop-links"><a href="gallery-habbel.php">Habbel Bhoopasandra</a> </li>
+    <li class="drop-links"><a href="gallery-jpnagar.php">JP Nagar</a></li>
+</ul>
+</li>
 
-<li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Gallery</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Accolades</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">New Corner</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Admission</a></li>
@@ -28,5 +34,11 @@
     function togglemenu(){
 const menubar= document.getElementById('menubar');
 menubar.classList.toggle('openmenu')
+    }
+
+    function togglesubmenu(){
+const droplist = document.getElementById('droplist');
+droplist.classList.toggle('opensubmenu')
+
     }
 </script>

@@ -1,5 +1,23 @@
 @media only screen and (min-width:300px) and (max-width:997px) {
-    .bg-book-blue{
+    .menu-arrow{
+        transform: rotate(90deg);
+    }
+
+    .cus-dropdown .drop-list{
+        list-style-type: none;
+    padding: 0px;
+    margin: 0px;  
+    display: none;  
+    }
+.opensubmenu{
+    display: block !important;
+}
+
+    .drop-list .drop-links{
+        padding: 10px 0px;
+    }
+   
+    .bg-book-blue {
         background-image: url(../img/bg/bg-blue.avif);
         height: 830px;
         width: 100%;
@@ -9,12 +27,13 @@
     }
 
 
-    .rounder-border{
+    .rounder-border {
         height: 300px;
         width: 300px;
-    
-       }
-    .banner{
+
+    }
+
+    .banner {
         height: 200px;
         width: 100%;
     }
@@ -54,32 +73,41 @@
 }
 
 @media only screen and (min-width:998px) and (max-width:3000px) {
- .baglur-school{
-background-image: url('../img/banner/b1.avif');
-height: 350px;
-width: 100%;
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
- }
- 
-    .bg-book-blue{
+   .menu-arrow{
+    transform: rotate(90deg);
+transition: all 0.3s ease-in-out;
+   }
+
+   .cus-dropdown:hover .menu-arrow{
+    transform: rotate(-90deg);
+   }
+
+    .baglur-school {
+        background-image: url('../img/banner/b1.avif');
+        height: 350px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .bg-book-blue {
         background-image: url('../img/bg/bg-blue.avif');
         height: 400px;
         width: 100%;
-        background-position:center;
+        background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
 
-    .rounder-border{
-    height: 300px;
-    width: 300px;
+    .rounder-border {
+        height: 300px;
+        width: 300px;
 
-   }
+    }
 
-    
-    .banner{
+
+    .banner {
         height: 400px;
         width: 100%;
     }
@@ -99,5 +127,41 @@ background-position: center;
     nav .nav_links {
         position: relative;
         display: flex;
+    }
+
+    .cus-dropdown {
+        position: relative;
+    }
+
+    .cus-dropdown .drop-list {
+        position: absolute;
+        top: 150%;
+        background-color: white;
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        width: max-content;
+        box-shadow: -1px 8px 15px 0px #00000085;
+transition: all 0.3s ease-in-out;
+    visibility: hidden;
+    opacity: 0;
+    }
+
+    .cus-dropdown:hover .drop-list{
+top: 100%;
+visibility: visible;
+opacity: 1;
+    }
+
+    .drop-list .drop-links{
+        padding: 10px 10px;
+transition: all 0.2s ease-in-out;
+    }
+    .drop-links:hover{
+        background-color: #a12b2f;
+        color: white;
+    }
+    .drop-list .drop-links a{
+        padding: 0px !important;
     }
 }

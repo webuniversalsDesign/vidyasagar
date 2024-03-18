@@ -44,6 +44,7 @@ nav .nav_links {
     margin: 0px;
     list-style-type: none;
     z-index: 111111;
+    background-color: white;
 }
 
 
@@ -236,7 +237,18 @@ line-height: 3;
     width: 100%;
 }
 
+.school-gallery{
+    height: 250px;
+    width: 100%;
+}
+
 .school-feature img{
+    height: 100%;
+width: 100%;
+object-fit: cover;
+}
+
+.school-gallery img{
     height: 100%;
 width: 100%;
 object-fit: cover;
@@ -248,7 +260,7 @@ object-fit: cover;
 
 }
 
-.school-feature:hover .school-featurename{
+.school-feature:hover .school-featurename, .school-gallery:hover .school-featurename{
     transform: translateY(-30px);
     background-color: white;
 }
@@ -349,20 +361,22 @@ background-repeat: no-repeat;
 }
 .infr-card .infra-content{
 position: absolute;
-top: -40%;
-left: 50%;
+/* top: -40%; */
+top: 50%;
+left: -90%;
 transform: translate(-50%, -50%);
 width: 90%;
 background-color: rgba(255, 255, 255, 0.925);
-transition: all 0.4s ease-in-out;
-opacity: 0;
+transition: all 0.5s ease-in-out;
+/* opacity: 0; */
 z-index: 1111;
 border-radius: 5px;
 }
 
 .infr-card:hover .infra-content{
-    top: 50%;
-    opacity: 1;
+    /* top: 50%; */
+left: 50%;
+    /* opacity: 1; */
 }
 
 .overlay-black-left{
@@ -373,19 +387,28 @@ background-color: rgba(0, 0, 0, 0.377);
 height: 100%;
 width: 100%;
 transition: all 0.3s ease-in-out;
-opacity: 0;
+/* opacity: 0; */
 
 }
 
 .infr-card:hover .overlay-black-left{
     left: 0px;
-opacity: 1;
+/* opacity: 1; */
 }
 
 .infr-card img{
     height: 100%;
     width: 100%;
     object-fit: cover;
+}
+
+
+.team-img{
+    background-image: url('../img/campuse/team-hebbal.avif');
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    
 }
 .curriculum-image{
     height: 250px;
