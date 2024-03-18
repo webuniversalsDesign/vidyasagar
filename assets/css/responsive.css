@@ -54,6 +54,15 @@
 }
 
 @media only screen and (min-width:998px) and (max-width:3000px) {
+ .baglur-school{
+background-image: url('../img/banner/b1.avif');
+height: 350px;
+width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+ }
+ 
     .bg-book-blue{
         background-image: url('../img/bg/bg-blue.avif');
         height: 400px;

@@ -130,8 +130,10 @@ textarea {
 }
 
 .swiper-button-next,
-.swiper-button-prev {
+.swiper-button-prev,
+.swiper-pagination-bullet-active{
     color: #a12b2f !important;
+    background:#a12b2f !important;;
 }
 
 .t-xsm {

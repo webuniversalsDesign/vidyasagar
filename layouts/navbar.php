@@ -8,7 +8,7 @@
 <ul class="nav_links" id="menubar">
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="index.php">Home</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="about.php">About us</a></li>
-<li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Our Campuses</a></li>
+<li class="t-sm py-md-1 py-3 font-w-500"><a href="our-campuses.php">Our Campuses</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Curriculum</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Gallery</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Accolades</a></li>

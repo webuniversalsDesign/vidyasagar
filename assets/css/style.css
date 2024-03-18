@@ -272,3 +272,49 @@ background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
 }
+
+
+.infr-card{
+    height: 250px;
+    width: 100%;
+}
+.infr-card .infra-content{
+position: absolute;
+top: -40%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 90%;
+background-color: rgba(255, 255, 255, 0.925);
+transition: all 0.4s ease-in-out;
+opacity: 0;
+z-index: 1111;
+border-radius: 5px;
+}
+
+.infr-card:hover .infra-content{
+    top: 50%;
+    opacity: 1;
+}
+
+.overlay-black-left{
+position: absolute;
+top: 0px;
+left: -500px;
+background-color: rgba(0, 0, 0, 0.377);
+height: 100%;
+width: 100%;
+transition: all 0.3s ease-in-out;
+opacity: 0;
+
+}
+
+.infr-card:hover .overlay-black-left{
+    left: 0px;
+opacity: 1;
+}
+
+.infr-card img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
