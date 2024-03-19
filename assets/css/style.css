@@ -440,3 +440,24 @@ transition: all 0.3s ease-in-out;
     background-color: #003087;
     
 }
+.footer-logo{
+    height: 300px;
+    width: 100%;
+}
+.footer-logo img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.footer-link{
+    color: white;
+}
+.custom-list  li{
+    list-style-type: none;
+}
+.custom-list{
+    padding-left: 0px;
+}
+.copy-right{
+    background-color: #F8F8F8;
+}

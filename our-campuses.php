@@ -106,7 +106,7 @@
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3886.863128297804!2d77.583595!3d13.044383!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17edef30af83%3A0x41250c272bf15585!2sBhoopasandra%2C%20R.M.V.%202nd%20Stage%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1710752174239!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
+        <?php @include('layouts/footer.php') ?>
 </body>
 
 </html>

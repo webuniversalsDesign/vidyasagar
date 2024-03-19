@@ -136,7 +136,7 @@
         </div>
     </section>
     <?php @include('components/curriculum-gallery-2.php') ?>
-
+    <?php @include('layouts/footer.php') ?>
 </body>
 
 </html>
