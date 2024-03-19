@@ -45,7 +45,7 @@
         </div>
     </div>
 
-    <div class="bg-book-blue mt-5">
+    <!-- <div class="bg-book-blue mt-5">
         <div class="container py-md-5 py-5">
             <div class="row">
 
@@ -78,30 +78,84 @@
         <span class="pencil section-icon"></span>
         <span class="star2 section-icon"></span>
         <span class="star section-icon"></span>
-    </div>
+    </div> -->
 
+    <div class="d-flex flex-md-nowrap  flex-wrap overflow-hidden my-5 pb-md-1 pb-4">
+
+        <div class="history-card overflow-hidden">
+            <img src="assets/img/studens.jpg" alt="" class="hoverimg-scale-1" />
+            <div class="overlay-transparent-red"></div>
+            <div class="info">
+                <p class="text-center t-color-white t-xlg margin-0 font-w-700">762</p>
+                <p class="text-center t-color-white font-w-300">Number of students</p>
+                <div class="d-flex justify-content-center">
+                    <a href="#" class="px-3 py-1 bgcolor-theme-blue b-radius-rounded t-color-white t-sm font-w-300 letter-spacing-1">Read more</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="history-card overflow-hidden">
+            <img src="assets/img/studens.jpg" alt="" class="hoverimg-scale-1" />
+            <div class="overlay-transparent-blue"></div>
+            <div class="info">
+                <p class="text-center t-color-white t-xlg margin-0 font-w-700">1982</p>
+                <p class="text-center t-color-white font-w-300">Number of years established</p>
+                <div class="d-flex justify-content-center">
+                    <a href="#" class="px-3 py-1 bgcolor-theme-red b-radius-rounded t-color-white t-sm font-w-300 letter-spacing-1">Read more</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="history-card overflow-hidden">
+            <img src="assets/img/studens.jpg" alt="" class="hoverimg-scale-1" />
+            <div class="overlay-transparent-red"></div>
+            <div class="info">
+                <p class="text-center t-color-white t-xlg margin-0 font-w-700">185</p>
+                <p class="text-center t-color-white font-w-300">Number of days in a academic year</p>
+                <div class="d-flex justify-content-center">
+                    <a href="#" class="px-3 py-1 bgcolor-theme-blue b-radius-rounded t-color-white t-sm font-w-300 letter-spacing-1">Read more</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="history-card overflow-hidden">
+            <img src="assets/img/studens.jpg" alt="" class="hoverimg-scale-1" />
+            <div class="overlay-transparent-blue"></div>
+            <div class="info">
+                <p class="text-center t-color-white t-xlg margin-0 font-w-700">75</p>
+                <p class="text-center t-color-white font-w-300">Number of awards</p>
+                <div class="d-flex justify-content-center">
+                    <a href="#" class="px-3 py-1 bgcolor-theme-red b-radius-rounded t-color-white t-sm font-w-300 letter-spacing-1">Read more</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
 
     <div class="container py-md-5 py-1">
         <div class="row">
 
             <div class="col-md-4 px-md-4 py-md-1 pb-5">
-                <div class="school-feature">
+                <div class="school-feature shadow">
                     <img src="assets/img/infra.jpg" alt="feature-img" />
-                    <h5 class="t-color-theme-red t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Infrastructure</h5>
+                    <h5 class="t-color-white t-md text-center font-w-500 letter-spacing-1 school-featurename margin-0 pt-3">Infrastructure</h5>
                 </div>
             </div>
 
             <div class="col-md-4 px-md-4 py-md-1 py-5">
-                <div class="school-feature">
+                <div class="school-feature shadow">
                     <img src="assets/img/gallery.jpg" alt="feature-img" />
-                    <h5 class="t-color-theme-red t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Gallery</h5>
+                    <h5 class="t-color-white t-md text-center font-w-500 letter-spacing-1 school-featurename margin-0 pt-3">Gallery</h5>
+
                 </div>
             </div>
 
             <div class="col-md-4 px-md-4 py-md-1 py-5">
-                <div class="school-feature">
+                <div class="school-feature shadow">
                     <img src="assets/img/programs.jpg" alt="feature-img" />
-                    <h5 class="t-color-theme-red t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Programs</h5>
+                    <h5 class="t-color-white t-md text-center font-w-500 letter-spacing-1 school-featurename margin-0 pt-3">Programs</h5>
+
                 </div>
             </div>
 
@@ -119,38 +173,30 @@
         <div class="row pt-5">
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
-                <div class="shadow">
-                    <div class="edge-img">
-                        <img src="assets/img/head.avif" alt="edge-imgs" />
-                    </div>
-                    <h6 class="text-center py-3">Legacy And Journey</h6>
+            <div class="school-feature shadow">
+                    <img src="assets/img/head.avif" alt="feature-img" />
+                    <h5 class="t-color-white t-md pt-2 text-center font-w-500 school-featurename margin-0 pt-5">Legacy And Journey</h5>
                 </div>
             </div>
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
-                <div class="shadow">
-                    <div class="edge-img">
-                        <img src="assets/img/learning.jpg" alt="edge-imgs" />
-                    </div>
-                    <h6 class="text-center py-3">Learning Methodology</h6>
+            <div class="school-feature shadow">
+                    <img src="assets/img/learning.jpg" alt="feature-img" />
+                    <h5 class="t-color-white t-md pt-2 text-center font-w-500  school-featurename margin-0 pt-5">Learning Methodology</h5>
                 </div>
             </div>
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
-                <div class="shadow">
-                    <div class="edge-img">
-                        <img src="assets/img/our-culture.jpg" alt="edge-imgs" />
-                    </div>
-                    <h6 class="text-center py-3">Our Culture</h6>
+            <div class="school-feature shadow">
+                    <img src="assets/img/our-culture.jpg" alt="feature-img" />
+                    <h5 class="t-color-white t-md pt-2 text-center font-w-500 school-featurename margin-0 pt-5">Our Culture</h5>
                 </div>
             </div>
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
-                <div class="shadow">
-                    <div class="edge-img">
-                        <img src="assets/img/feeder-school.jpg" alt="edge-imgs" />
-                    </div>
-                    <h6 class="text-center py-3">Feeder School to Vidyashilp</h6>
+            <div class="school-feature shadow">
+                    <img src="assets/img/feeder-school.jpg" alt="feature-img" />
+                    <h5 class="t-color-white t-md pt-2 text-center font-w-500 school-featurename margin-0 pt-5">Feeder School to Vidyashilp</h5>
                 </div>
             </div>
         </div>

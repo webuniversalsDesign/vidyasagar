@@ -1,5 +1,17 @@
 @media only screen and (min-width:300px) and (max-width:997px) {
-    .menu-arrow{
+   .history-card{
+width: 100%;
+   }
+
+    .baglur-school {
+        background-image: url('../img/banner/b1.avif');
+        height: 200px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+     .menu-arrow{
         transform: rotate(90deg);
     }
 
@@ -73,7 +85,11 @@
 }
 
 @media only screen and (min-width:998px) and (max-width:3000px) {
-   .menu-arrow{
+    .history-card{
+        width:25%;
+    }
+
+    .menu-arrow{
     transform: rotate(90deg);
 transition: all 0.3s ease-in-out;
    }

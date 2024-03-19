@@ -140,7 +140,7 @@
                         </div>
 
                         <div class="hover-content">
-                            <p class="hover-text font-w-500">
+                            <p class="hover-text font-w-500 text-justify">
                             At Vidyasagar Preschool, we pride ourselves on being a second home for children. Our nurturing environment fosters a strong bond between students and their 'aunties' (our teachers), enhancing safety, happiness, and enabling each child to reach their fullest potential.
                             </p>
                         </div>
@@ -156,7 +156,7 @@
                         </div>
 
                         <div class="hover-content">
-                            <p class="hover-text font-w-500">
+                            <p class="hover-text font-w-500 text-justify">
                             Aligned with our commitment to transparency, Vidyasagar has an open-door policy. This allows both parents and children to schedule meetings with coordinators, teachers, or the principal at their convenience, fostering open communication and collaboration.
                             </p>
                         </div>
@@ -172,7 +172,7 @@
                         </div>
 
                         <div class="hover-content">
-                            <p class="hover-text font-w-500">
+                            <p class="hover-text font-w-500 text-justify">
                             Our certified educators go beyond academics, prioritizing the socio-emotional well-being of each child. Through structured, annual professional development programs, we empower our teachers to continually enhance their skills and knowledge, ensuring a holistic approach to education.
                             </p>
                         </div>
@@ -188,7 +188,7 @@
                         </div>
 
                         <div class="hover-content">
-                            <p class="hover-text font-w-500">
+                            <p class="hover-text font-w-500 text-justify">
                             At Vidyasagar, we take pride in providing individualized attention to each child. We are committed to knowing every Vidyasagar child personally and believe in tailoring our approach to accommodate their unique learning styles.
                             </p>
                         </div>
@@ -204,7 +204,7 @@
                         </div>
 
                         <div class="hover-content">
-                            <p class="hover-text font-w-500">
+                            <p class="hover-text font-w-500 text-justify">
                             At Vidyasagar, ensuring the safety of our children is our top priority. All our staff undergo extensive background checks, and 95% of our team comprise of women. We firmly believe that a secure environment fosters natural curiosity and encourages children to explore and learn freely.
                             </p>
                         </div>
@@ -220,7 +220,7 @@
                         </div>
 
                         <div class="hover-content">
-                            <p class="hover-text font-w-500">
+                            <p class="hover-text font-w-500 text-justify">
                             Vidyasagar actively promotes and values parental involvement. Through the years, we've cultivated a robust and united community where parents and family members serve as our esteemed brand ambassadors.
                             </p>
                         </div>
@@ -237,8 +237,14 @@
                     <div class="position-relative image-hover-effect">
                         <img src="./assets/img/leader-1.avif" class="img-fluid img-fit" alt="">
                         <div class="leader-title">
-                            <h5 class="t-color-theme-blue letter-spacing-1">Dr.Dayananda Pai</h5>
-                            <p class="margin-b-0 font-w-500">Managing Trustee</p>
+                            <h5 class="t-color-theme-blue letter-spacing-1 margin-0">Dr.Dayananda Pai</h5>
+                            <p class="margin-b-0 font-w-500 t-color-theme-red pb-2">Managing Trustee</p>
+                        </div>
+
+                        <div class="leader-info">
+                        <h5 class="t-color-theme-blue letter-spacing-1 margin-0 text-center pt-2">Dr.Dayananda Pai</h5>
+                            <p class="margin-b-0 font-w-500 t-color-theme-red pb-2 text-center">Managing Trustee</p>
+                            <p class="font-w-500 px-2 margin-0 text-justify t-xsm pb-2">Dr. P Dayananda Pai is a prominent educationist, philanthropist and leading real estate developer in Bengaluru. Apart from being the Managing Trustee of VSEG, Dr. Pai is also the Board Trustee of B.M.S. College as well as Bharatiya Vidya Bhavan, and a Trustee of Karnataka Chitrakala Parishad. He is also the syndicate member of Manipal University and the National Institute of Technology, Surathkal. He has served as the former syndicate member of Mangalore University. Dr. Pai has been awarded the Karnataka Udyog Award, the Karnataka Rajyotsava Award and the Aryabhatta Award for initiatives involving social and charitable activities. He was conferred an Honorary Doctorate by Mangalore University for his exceptional contribution in the field of education and philanthropy.</p>
                         </div>
                     </div>
                 </div>
@@ -246,8 +252,14 @@
                     <div class="position-relative image-hover-effect">
                         <img src="./assets/img/leader-2.avif" class="img-fluid img-fit" alt="">
                         <div class="leader-title">
-                            <h5 class="t-color-theme-blue letter-spacing-1">Dr.Kiran Pai(Ed.D)</h5>
-                            <p class="margin-b-0 font-w-500">Director</p>
+                        <h5 class="t-color-theme-blue letter-spacing-1 margin-0">Dr.Kiran Pai(Ed.D)</h5>
+                            <p class="margin-b-0 font-w-500 t-color-theme-red pb-1">Director</p>
+                        </div>
+
+                        <div class="leader-info">
+                        <h5 class="t-color-theme-blue letter-spacing-1 margin-0 text-center pt-2">Dr.Kiran Pai(Ed.D)</h5>
+                            <p class="margin-b-0 font-w-500 t-color-theme-red pb-2 text-center">Director</p>
+                            <p class="font-w-500 px-2 margin-0 text-justify t-xsm pb-2">Dr. Kiran Pai (Ed.D.) is the Co-founder and Pro-Chancellor of Vidyashilp University. She is also the Director of three prominent schools in Bengaluru, India - Vidyashilp Academy, Vidyashilp School and Vidyasagar Preschool. Dr. Pai is a trained Educational Psychologist with expertise in Instructional Design. She earned her Doctorate in Education (Ed.D.) in Organizational Change and Leadership and her Masters in Education in Learning Design and Technology (M.Ed. LDT) at the Rossier School of Education, University of Southern California, USA. She was recently awarded the prestigious 2021 Doctoral Distinction Award in recognition of her scholarly work. She is also the recipient of the 2020 Honors from the U.S. based Kappa Delta Pi International Society in Education, which acknowledges only the top 20 percent of prominent International scholars in the field. She was the recipient of the 50 Innovative Leaders award in India by the World Education Congress and Prof. Indira Parikh. Dr. Pai undertook most of her professional training in educational leadership at Harvard University, Boston and IIM Ahmedabad. Dr. Pai is a member of the American Education Research Association (AERA) and the American Psychological Association (APA).</p>
                         </div>
                     </div>
                 </div>
@@ -255,8 +267,16 @@
                     <div class="position-relative image-hover-effect">
                         <img src="./assets/img/leader-3.avif" class="img-fluid img-fit" alt="">
                         <div class="leader-title">
-                            <h5 class="t-color-theme-blue letter-spacing-1">Dr.Shilpa Pai</h5>
-                            <p class="margin-b-0 font-w-500">Director </p>
+                        <h5 class="t-color-theme-blue letter-spacing-1 margin-0">Dr.Shilpa Pai</h5>
+                            <p class="margin-b-0 font-w-500 t-color-theme-red pb-2">Director</p>
+                           
+                        </div>
+
+                        
+                        <div class="leader-info">
+                        <h5 class="t-color-theme-blue letter-spacing-1 margin-0 text-center pt-2">Dr.Shilpa Pai</h5>
+                            <p class="margin-b-0 font-w-500 t-color-theme-red pb-2 text-center">Director</p>
+                            <p class="font-w-500 px-2 margin-0 text-justify t-xsm pb-2">Dr. P Dayananda Pai is a prominent educationist, philanthropist and leading real estate developer in Bengaluru. Apart from being the Managing Trustee of VSEG, Dr. Pai is also the Board Trustee of B.M.S. College as well as Bharatiya Vidya Bhavan, and a Trustee of Karnataka Chitrakala Parishad. He is also the syndicate member of Manipal University and the National Institute of Technology, Surathkal. He has served as the former syndicate member of Mangalore University. Dr. Pai has been awarded the Karnataka Udyog Award, the Karnataka Rajyotsava Award and the Aryabhatta Award for initiatives involving social and charitable activities. He was conferred an Honorary Doctorate by Mangalore University for his exceptional contribution in the field of education and philanthropy.</p>
                         </div>
                     </div>
                 </div>
@@ -276,25 +296,25 @@
                         <div class="col-md-4 py-md-1 py-4">
                             <div class="shadow1">
                                 <img src="./assets/img/yelehanka.avif" class="school-image" alt="">
-                                <p class="image-title text-white text-center">Vidyashilp Academy,<br> Yelahanka</p>
+                                <p class="image-title text-white text-center py-2 t-xsm font-w-500 letter-spacing-1">Vidyashilp Academy, <br/> Yelahanka</p>
                             </div>
                         </div>
                         <div class="col-md-4 py-md-1 py-4">
                             <div class="shadow1">
                                 <img src="./assets/img/bagalur.avif" class="school-image" alt="">
-                                <p class="image-title text-white text-center">Vidyashilp School,<br> Bagalur</p>
+                                <p class="image-title text-white text-center py-2 t-xsm font-w-500 letter-spacing-1">Vidyashilp School, <br/> Bagalur</p>
                             </div>
                         </div>
                         <div class="col-md-4 py-md-1 py-4">
                             <div class="shadow1">
                                 <img src="./assets/img/banasankari.avif" class="school-image" alt="">
-                                <p class="image-title text-white text-center">Vidyashilp school,<br> Banashankari</p>
+                                <p class="image-title text-white text-center py-2 t-xsm font-w-500 letter-spacing-1">Vidyashilp school, <br/> Banashankari</p>
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="font-w-400 text-justify">Vidyasagar Preschools proudly stand as a sister concern of Vidyashilp Academy and Vidyashilp Schools. Renowned for our exceptional standard of education, we are widely recognized among other prestigious institutions in the educational landscape.</p>
+                            <p class="font-w-400 text-justify t-sm t-color-gray">Vidyasagar Preschools proudly stand as a sister concern of Vidyashilp Academy and Vidyashilp Schools. Renowned for our exceptional standard of education, we are widely recognized among other prestigious institutions in the educational landscape.</p>
                         </div>
                     </div>
                 </div>

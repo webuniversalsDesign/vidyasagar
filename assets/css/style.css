@@ -65,7 +65,7 @@ nav .nav_links a {
   }
   .custom-card{
     transition: all .3s ease-in-out;
-
+height: 100%;
   }
   .custom-card:hover .t-color-theme-blue{
     color: brown !important;
@@ -74,10 +74,20 @@ nav .nav_links a {
     .flex-sm-column-reverse2 {
         flex-direction: column-reverse;
     }
+
+    .content-sm-reverse{
+        display: flex;
+        flex-direction: column-reverse;
+    }
   }
   @media screen and (min-width:768px){
     .flex-sm-column-reverse2 {
         flex-direction: row;
+    }
+
+    
+    .content-sm-reverse{
+        
     }
   }
 
@@ -233,8 +243,9 @@ line-height: 3;
 }
 
 .school-feature{
-    height: 160px;
+    height: 230px;
     width: 100%;
+    position: relative;
 }
 
 .school-gallery{
@@ -255,12 +266,15 @@ object-fit: cover;
 }
 
 .school-featurename{
-    transform: translateY(0px);
-    transition: all 0.2s ease-in-out;
-
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    line-height: 2;
+    background-image:linear-gradient(360deg, black, #000000bd, #000000a1, transparent)
 }
 
-.school-feature:hover .school-featurename, .school-gallery:hover .school-featurename{
+ .school-gallery:hover .school-featurename{
     transform: translateY(-30px);
     background-color: white;
 }
@@ -277,15 +291,6 @@ object-fit: cover;
 object-position: top;
 }
 
-.testimonialbg{
-    width: 100%;
-    height: max-content;
-    position: relative;
-    background-image:url('../img/bg/testimonial-bg.jpg') ;
-background-position: center;
-background-size: cover;
-background-repeat: no-repeat;
-}
 .img-fit{
     
     width: 100%;
@@ -296,14 +301,8 @@ background-repeat: no-repeat;
     overflow: hidden;
 
 }
-.leader-title{
-    position: absolute;
-    bottom: 0;
-    padding: 12px 0px;
-    background-color: #ffffffbe;
-    width: 100%;
-    text-align: center;
-}
+
+
 .leadership{
     background-color: rgb(240, 240, 240);
     padding: 20px 0px;
@@ -315,8 +314,36 @@ background-repeat: no-repeat;
 }
 .image-hover-effect{
     overflow: hidden;
-
 }
+
+.leader-title{
+    position: absolute;
+    bottom: 0;
+
+    padding: 5px 0px;
+    background-color: #ffffffbe;
+    width: 100%;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.image-hover-effect:hover .leader-title{
+    bottom: -100px;
+}
+
+.leader-info{
+    transition: all 0.5s ease-in-out;
+    position: absolute;
+    bottom: -500px;
+    left: 0px;
+    width: 100%;
+    background-color: #ffffffbe;
+}
+
+.image-hover-effect:hover .leader-info{
+    bottom: 0px;
+}
+
 .feeder-school{
     padding: 25px 0px;
 }
@@ -351,7 +378,7 @@ background-repeat: no-repeat;
 }
 .banner-title{
     color: #a12b2f;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 0.5px white;
     margin-top: 70px;
 }
 
@@ -404,10 +431,11 @@ transition: all 0.3s ease-in-out;
 
 
 .team-img{
-    background-image: url('../img/campuse/team-hebbal.avif');
+    background-image: url('../img/campuse/staff-img.avif');
     height: 400px;
     width: 100%;
     background-size: cover;
+    background-position: center;
     
 }
 .curriculum-image{
@@ -460,4 +488,62 @@ transition: all 0.3s ease-in-out;
 }
 .copy-right{
     background-color: #F8F8F8;
+}
+
+
+.award-img{
+    height: 250px;
+    width: 100%;
+}
+
+.award-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.history-card{
+    position: relative;
+    height: 200px;
+}
+
+.history-card img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.hoverimg-scale-1{
+    transform: scale(1);
+    transition: all .3s ease-in-out;
+
+}
+.history-card:hover .hoverimg-scale-1{
+    transform: scale(1.1);
+}
+
+.overlay-transparent-red{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+background-color: #a12b2fce;
+}
+
+.overlay-transparent-blue{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #002f87be;
+}
+
+.history-card .info{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
 }

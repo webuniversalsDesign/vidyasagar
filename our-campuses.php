@@ -13,14 +13,12 @@
 
     <div class="bgcolor-theme-blue">
         <div class="container">
-            <p class="margin-0 py-5 t-sm t-color-red font-w-500 text-center">Spanning an acre, Vidyasagar Preschool Bhoopasandra is one of the largest stand-alone preschools in the country and is a comprehensive four decade-year-old preschool,
-                enrolling 800 students in grades such as Playgroup, Nursery, Prep I and Prep II. The spacious infrastructure has many activities and play areas for the children. Outdoor
-                open area, sandpits with slides, activity room, interaction and reading corner, music room, lawn areas etc. help children explore spaces and build on their abilities. The
-                campus boasts of 15 spacious classrooms, with an excellent teacher: student ratio of 1:15. Spanning an acre, Vidyasagar Preschool Bhoopasandra is one of the largest
-                stand-alone preschools in the country and is a comprehensive four decade-year-old preschool, enrolling 800 students in grades such as Playgroup, Nursery, Prep I and Prep
-                II. The spacious infrastructure has many activities and play areas for the children. Outdoor open area, sandpits with slides, activity room, interaction and reading corner,
-                music room, lawn areas etc. help children explore spaces and build on their abilities. The campus boasts of 15 spacious classrooms, with an excellent teacher: student ratio
-                of 1:15.</p>
+            <p class="margin-0 py-5 t-sm t-color-red font-w-500 text-center">Spanning across a sprawling acre, Vidyasagar Preschool Bhoopasandra stands as one of the largest standalone preschools nationwide, boasting over four decades of comprehensive education. With an enrolment of 800 students across grades, our campus offers an expansive infrastructure designed to cater to diverse activities and play areas for children in Playgroup, Nursery, Prep I, and Prep II.
+<br/>
+<br/>
+From outdoor open spaces to sandpits with slides, activity rooms, interaction and reading corners, music rooms, and lush lawn areas, our facilities encourage children to explore and hone their skills. With 15 spacious classrooms and an outstanding teacher-to-student ratio of 1:15, we ensure an enriching learning environment where each child receives ample attention and support.
+
+            </p>
         </div>
     </div>
 
