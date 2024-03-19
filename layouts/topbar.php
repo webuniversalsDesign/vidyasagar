@@ -2,9 +2,9 @@
     <div class="enquiry-links align-items-center gap-3">
         <a href="mailto:enrolment@vidyasagarpreschool.edu.in" class="mail t-xsm"><i class="fa-solid fa-envelope-open"></i> &nbsp; enrolment@vidyasagarpreschool.edu.in</a>
 
-        <a href="#" class=" px-3 py-1 b-radius-5 t-xsm hover-red-btn-white-t-red transition-2 font-w-500">E - Prospectus</a>
-        <a href="#" class=" px-3 py-1 b-radius-5 t-xsm hover-red-btn-white-t-red transition-2 font-w-500">Enquery Now</a>
-        <a href="#" class=" px-3 py-1 b-radius-5 t-xsm hover-red-btn-white-t-red transition-2 font-w-500">Contact Us</a>
+        <a href="e-prospectus.php" class=" px-3 py-1 b-radius-5 t-xsm hover-red-btn-white-t-red transition-2 font-w-500">E - Prospectus</a>
+        <a href="enquire.php" class=" px-3 py-1 b-radius-5 t-xsm hover-red-btn-white-t-red transition-2 font-w-500">Enquery Now</a>
+        <a href="contact.php" class=" px-3 py-1 b-radius-5 t-xsm hover-red-btn-white-t-red transition-2 font-w-500">Contact Us</a>
         <a href="#" class=" px-3 py-1 b-radius-5 t-xsm hover-red-btn-white-t-red transition-2 font-w-500">Pay Fee</a>
 
     </div>

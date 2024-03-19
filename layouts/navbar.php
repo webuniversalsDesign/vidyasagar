@@ -13,7 +13,7 @@
 
 <li class="t-sm py-md-1 py-3 font-w-500 cus-dropdown">
     <a href="#" onclick="togglesubmenu()">Gallery &nbsp; &nbsp; <i class="fa-solid fa-chevron-right menu-arrow"></i></a>
-<ul class="drop-list" id="droplist">
+<ul class="drop-list transition-3" id="droplist">
     <li class="drop-links"><a href="gallery-habbel.php">Habbel Bhoopasandra</a> </li>
     <li class="drop-links"><a href="gallery-jpnagar.php">JP Nagar</a></li>
 </ul>

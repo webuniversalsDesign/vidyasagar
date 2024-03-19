@@ -19,7 +19,7 @@
                         </ul>
                         <ul class="d-flex custom-list">
                             <li><i class="fa-solid fa-location-dot text-white"></i></li>
-                            <li class="footer-link px-2">No.9, 3rd Cross, Bhoopasandra Main Road, RMV 2nd Stage, Hebbal Bengaluru - 560094</li>
+                            <li class="footer-link px-2">No.9, 3rd Cross, Bhoopasandra Main Road, RMV 2nd Stage, Hebbal Bengaluru -<br> 560094</li>
                         </ul>
                         <ul class="d-flex custom-list">
                             <li><i class="fa-solid fa-envelope-open text-white"></i></li>
@@ -37,7 +37,7 @@
                         </ul>
                         <ul class="d-flex custom-list">
                             <li><i class="fa-solid fa-location-dot text-white"></i></li>
-                            <li class="footer-link px-2">No. 778, 15th Cross Rd, Jeewan Sathi Colony, 1st Phase, J.P. Nagar, Bengaluru, Karnataka - 560078</li>
+                            <li class="footer-link px-2">No. 778, 15th Cross Rd, Jeewan Sathi Colony, 1st Phase, J.P. Nagar, Bengaluru, Karnataka -<br> 560078</li>
                         </ul>
                         <ul class="d-flex custom-list">
                             <li><i class="fa-solid fa-envelope-open text-white"></i></li>
@@ -54,10 +54,10 @@
 <div class="container">
     <div class="row">
         <div class="col-md-7">
-            <p class="margin-b-0">Copyright © 2024 Vidyasagar Preschool. All Rights Reserved| Designed by web universals</p>
+            <p class="margin-b-0">Copyright © 2024 Vidyasagar Preschool. All Rights Reserved| Designed by <a href="http://webuniversals.co.in/">web universals</a> </p>
         </div>
         <div class="col-md-5">
-            <p class="margin-b-0">Terms & Conditions | Privacy Security Policy | Sitemap</p>
+            <p class="margin-b-0 mt-md-0 mt-3">Terms & Conditions | Privacy Security Policy | Sitemap</p>
         </div>
     </div>
 </div>
