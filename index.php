@@ -138,14 +138,14 @@
 
             <div class="col-md-4 px-md-4 py-md-1 pb-5">
                 <div class="school-feature shadow">
-                    <img src="assets/img/infra.jpg" alt="feature-img" />
+                    <img src="assets/img/infra.jpg" alt="feature-img" class="img-hover-scale-1" />
                     <h5 class="t-color-white t-md text-center font-w-500 letter-spacing-1 school-featurename margin-0 pt-3">Infrastructure</h5>
                 </div>
             </div>
 
             <div class="col-md-4 px-md-4 py-md-1 py-5">
                 <div class="school-feature shadow">
-                    <img src="assets/img/gallery.jpg" alt="feature-img" />
+                    <img src="assets/img/gallery.jpg" alt="feature-img" class="img-hover-scale-1" />
                     <h5 class="t-color-white t-md text-center font-w-500 letter-spacing-1 school-featurename margin-0 pt-3">Gallery</h5>
 
                 </div>
@@ -153,7 +153,7 @@
 
             <div class="col-md-4 px-md-4 py-md-1 py-5">
                 <div class="school-feature shadow">
-                    <img src="assets/img/programs.jpg" alt="feature-img" />
+                    <img src="assets/img/programs.jpg" alt="feature-img" class="img-hover-scale-1" />
                     <h5 class="t-color-white t-md text-center font-w-500 letter-spacing-1 school-featurename margin-0 pt-3">Programs</h5>
 
                 </div>
@@ -174,28 +174,28 @@
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
             <div class="school-feature shadow">
-                    <img src="assets/img/head.avif" alt="feature-img" />
+                    <img src="assets/img/head.avif" alt="feature-img" class="img-hover-scale-1" />
                     <h5 class="t-color-white t-md pt-2 text-center font-w-500 school-featurename margin-0 pt-5">Legacy And Journey</h5>
                 </div>
             </div>
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
             <div class="school-feature shadow">
-                    <img src="assets/img/learning.jpg" alt="feature-img" />
+                    <img src="assets/img/learning.jpg" alt="feature-img" class="img-hover-scale-1" />
                     <h5 class="t-color-white t-md pt-2 text-center font-w-500  school-featurename margin-0 pt-5">Learning Methodology</h5>
                 </div>
             </div>
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
             <div class="school-feature shadow">
-                    <img src="assets/img/our-culture.jpg" alt="feature-img" />
+                    <img src="assets/img/our-culture.jpg" alt="feature-img" class="img-hover-scale-1" />
                     <h5 class="t-color-white t-md pt-2 text-center font-w-500 school-featurename margin-0 pt-5">Our Culture</h5>
                 </div>
             </div>
 
             <div class="col-md-3 px-md-3 py-md-1 py-3">
             <div class="school-feature shadow">
-                    <img src="assets/img/feeder-school.jpg" alt="feature-img" />
+                    <img src="assets/img/feeder-school.jpg" alt="feature-img" class="img-hover-scale-1" />
                     <h5 class="t-color-white t-md pt-2 text-center font-w-500 school-featurename margin-0 pt-5">Feeder School to Vidyashilp</h5>
                 </div>
             </div>

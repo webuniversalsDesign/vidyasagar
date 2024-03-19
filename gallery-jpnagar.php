@@ -18,63 +18,14 @@
 
         <div class="swiper galleryhabbel mb-5">
             <div class="swiper-wrapper mb-5 pb-4">
-
-        
-                <div class="swiper-slide">
-                <a href="#">
-                     <div class="school-gallery">
-                        <img src="assets/img/gallery/blueday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Blue day</h5>
-                    </div>
-                </a>
-                   
-                </div>
           
-                <div class="swiper-slide">
-                <a href="#">
-                       <div class="school-gallery">
-                        <img src="assets/img/gallery/christmas.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Christmas</h5>
-                    </div>
-                </a>
-                 
-                </div>
 
-                <div class="swiper-slide">
-                <a href="#">
-                    <div class="school-gallery">
-                        <img src="assets/img/gallery/sportsday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Sport Day</h5>
-                    </div>
-                </a>
-                    
-                </div>
 
                 <div class="swiper-slide">
                 <a href="#">
                      <div class="school-gallery">
-                        <img src="assets/img/gallery/independenceday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Independence Day</h5>
-                    </div>
-                </a>
-                   
-                </div>
-
-                <div class="swiper-slide">
-                <a href="#">
-                    <div class="school-gallery">
-                        <img src="assets/img/gallery/yogaday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Yoga Day</h5>
-                    </div>
-                </a>
-                    
-                </div>
-
-                <div class="swiper-slide">
-                <a href="#">
-                     <div class="school-gallery">
-                        <img src="assets/img/gallery/redday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Red Day</h5>
+                        <img src="assets/img/gallery/jpnagar/independance-day.jpg" alt="feature-img" />
+                        <h5 class="t-color-white margin-0 t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Independence Day</h5>
                     </div>
                 </a>
                    
@@ -84,7 +35,7 @@
                 <a href="#">
                      <div class="school-gallery">
                         <img src="assets/img/gallery/varamahalakshmi.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Varamahalakshmi</h5>
+                        <h5 class="t-color-white margin-0 t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Varamahalakshmi</h5>
                     </div>
                 </a>
                    
@@ -94,7 +45,7 @@
                 <a href="#">
                     <div class="school-gallery">
                         <img src="assets/img/gallery/rakshabandana.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Rakshabandan</h5>
+                        <h5 class="t-color-white margin-0 t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Rakshabandan</h5>
                     </div>
                 </a>
                     
@@ -103,8 +54,19 @@
                 <div class="swiper-slide">
                 <a href="#">
                      <div class="school-gallery">
-                        <img src="assets/img/gallery/lifehebbal.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Life in Heabbel - Bhoopasandra</h5>
+                        <img src="assets/img/gallery/jpnagar/school-w.jpg" alt="feature-img" />
+                        <h5 class="t-color-white margin-0 t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Life in JP Nagar</h5>
+                    </div>
+                </a>
+                   
+                </div>
+
+                
+                <div class="swiper-slide">
+                <a href="#">
+                     <div class="school-gallery">
+                        <img src="assets/img/gallery/jpnagar/school-w.jpg" alt="feature-img" />
+                        <h5 class="t-color-white margin-0 t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Ganesh Chathurthi</h5>
                     </div>
                 </a>
                    

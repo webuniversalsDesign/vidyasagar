@@ -24,7 +24,7 @@
                 <a href="#">
                      <div class="school-gallery">
                         <img src="assets/img/gallery/blueday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Blue day</h5>
+                        <h5 class="t-color-white margin-0 t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Blue day</h5>
                     </div>
                 </a>
                    
@@ -34,7 +34,7 @@
                 <a href="#">
                        <div class="school-gallery">
                         <img src="assets/img/gallery/christmas.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Christmas</h5>
+                        <h5 class="t-color-white t-lg margin-0 pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Christmas</h5>
                     </div>
                 </a>
                  
@@ -44,7 +44,7 @@
                 <a href="#">
                     <div class="school-gallery">
                         <img src="assets/img/gallery/sportsday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Sport Day</h5>
+                        <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Sport Day</h5>
                     </div>
                 </a>
                     
@@ -54,7 +54,7 @@
                 <a href="#">
                      <div class="school-gallery">
                         <img src="assets/img/gallery/independenceday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Independence Day</h5>
+                        <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Independence Day</h5>
                     </div>
                 </a>
                    
@@ -64,7 +64,7 @@
                 <a href="#">
                     <div class="school-gallery">
                         <img src="assets/img/gallery/yogaday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Yoga Day</h5>
+                        <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Yoga Day</h5>
                     </div>
                 </a>
                     
@@ -74,7 +74,7 @@
                 <a href="#">
                      <div class="school-gallery">
                         <img src="assets/img/gallery/redday.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Red Day</h5>
+                        <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Red Day</h5>
                     </div>
                 </a>
                    
@@ -84,7 +84,7 @@
                 <a href="#">
                      <div class="school-gallery">
                         <img src="assets/img/gallery/varamahalakshmi.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Varamahalakshmi</h5>
+                        <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Varamahalakshmi</h5>
                     </div>
                 </a>
                    
@@ -94,7 +94,7 @@
                 <a href="#">
                     <div class="school-gallery">
                         <img src="assets/img/gallery/rakshabandana.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Rakshabandan</h5>
+                        <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Rakshabandan</h5>
                     </div>
                 </a>
                     
@@ -104,7 +104,7 @@
                 <a href="#">
                      <div class="school-gallery">
                         <img src="assets/img/gallery/lifehebbal.jpg" alt="feature-img" />
-                        <h5 class="t-color-theme-blue t-lg pt-2 text-center font-w-500 letter-spacing-1 school-featurename">Life in Hebbal - Bhoopasandra</h5>
+                        <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Life in Hebbal - Bhoopasandra</h5>
                     </div>
                 </a>
                    
