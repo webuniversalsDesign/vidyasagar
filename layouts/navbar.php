@@ -19,7 +19,16 @@
 </ul>
 </li>
 
-<li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Accolades</a></li>
+
+<li class="t-sm py-md-1 py-3 font-w-500 cus-dropdown">
+    <a href="#" onclick="togglesubmenu2()">Accolades &nbsp; &nbsp; <i class="fa-solid fa-chevron-right menu-arrow"></i></a>
+<ul class="drop-list" id="droplist2">
+    <li class="drop-links"><a href="#">Our Testimonial</a> </li>
+    <li class="drop-links"><a href="#">Awards</a></li>
+</ul>
+</li>
+
+
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">New Corner</a></li>
 <li class="t-sm py-md-1 py-3 font-w-500"><a href="#">Admission</a></li>
 </ul>
@@ -38,6 +47,12 @@ menubar.classList.toggle('openmenu')
 
     function togglesubmenu(){
 const droplist = document.getElementById('droplist');
+droplist.classList.toggle('opensubmenu')
+
+    }
+
+    function togglesubmenu2(){
+const droplist = document.getElementById('droplist2');
 droplist.classList.toggle('opensubmenu')
 
     }
