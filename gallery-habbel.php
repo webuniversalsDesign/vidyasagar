@@ -103,7 +103,7 @@
                 <div class="swiper-slide">
                 <a href="#">
                      <div class="school-gallery">
-                        <img src="assets/img/gallery/lifehebbal.jpg" alt="feature-img" />
+                        <img src="assets/img/campuse/staff-img.avif" alt="feature-img" />
                         <h5 class="t-color-white t-lg pt-2 margin-0 text-center font-w-500 letter-spacing-1 school-featurename">Life in Hebbal - Bhoopasandra</h5>
                     </div>
                 </a>

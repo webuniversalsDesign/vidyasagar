@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <div class="col-md-3">
                 <div class="footer-logo">
-                    <img src="../assets/img/logo/footer-logo.png" class="img-fluid" alt="">
+                    <img src="assets/img/logo/footer-logo.png" class="img-fluid" alt="">
                 </div>
             </div>
             <div class="col-md-1"></div>
